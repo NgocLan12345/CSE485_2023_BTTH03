@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+main {
+    width: 50%;
+    margin: auto;
+}
+
+h2{
+    color: wheat;
+    margin: 50px auto;
+    width: fit-content;
+}
+
+.display1{
+    display: inline-block;
+}
+
+tr>td:nth-child(4)>a{
+    color: #d4b206;
+    text-decoration: none;
+}
+
+tr>td:nth-child(5)>a{
+    color: #dc2020;
+    text-decoration: none;
+}
+
+form .lable_add{
+    color: chartreuse;
+}
